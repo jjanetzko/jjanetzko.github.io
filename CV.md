@@ -1,6 +1,5 @@
 ---
 layout: page
-title: CV
 permalink: /CV/
 ---
 
@@ -11,9 +10,9 @@ Concentration in Chemical Physics
 Supervisor: Dr. Vijay Pande  
 
 **M.Phil. in Chemistry**, University of Cambridge, 2016  
+Funded by the Churchill Scholarship  
 Thesis: Investigating the Role of Boundary Bricks in DNA Brick Assembly via Monte Carlo Simulation  
 Supervisor: Prof Daan Frenkel  
-Funded by the Churchill Scholarship
 
 
 **B.A. in Chemistry and Applied Mathematics**, Pomona College, 2015  
