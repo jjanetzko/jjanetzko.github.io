@@ -25,7 +25,7 @@ Mentor/Trainer for Teaching Assistants, Stanford University Chemistry Department
 ## Science Writing
 In addition to teaching and mentoring, I am invigorated by writing about science and sharing with the community.  During my MPhil at Cambridge University, I was a contributing writer to BlueSci, Cambridge's magazine for science writing.
 
-[Feature piece: *the Wunderkammer*](https://github.com/hwaymentsteele/hwaymentsteele.github.io/blob/master/images/wunderkammer.pdf)
+[Feature piece: *the Wunderkammer*](https://hwaymentsteele.github.io/images/wunderkammer.pdf)
 
 ## Food Science
 
