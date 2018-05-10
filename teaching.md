@@ -8,9 +8,9 @@ permalink: /teaching_comm/
 
 ### Stanford University  
 
-Accelerated Chemical Principles (31X), with W.E. Moerner and C. Cox, Fall 2016
-Physical Chemistry I: Thermodynamics (171), with B. Cui and W. Pfalzgraff, Spring 2017
-Physical Chemistry III: Statistical Mechanics (175), with T. Markland, Winter 2017
+Accelerated Chemical Principles (31X), with W.E. Moerner and C. Cox, Fall 2016  
+Physical Chemistry I: Thermodynamics (171), with B. Cui and W. Pfalzgraff, Spring 2017  
+Physical Chemistry III: Statistical Mechanics (175), with T. Markland, Winter 2017  
 
 ### Cambridge University
 
@@ -25,7 +25,7 @@ Mentor/Trainer for Teaching Assistants, Stanford University Chemistry Department
 ## Science Writing
 In addition to teaching and mentoring, I am invigorated by writing about science and sharing with the community.  During my MPhil at Cambridge University, I was a contributing writer to BlueSci, Cambridge's magazine for science writing.
 
-[Feature story: the Wunderkammer](https://github.com/hwaymentsteele/HWaymentSteele.github.io/images/wunderkammer.pdf)
+[Feature story: the Wunderkammer](https://github.com/hwaymentsteele/HWaymentSteele.github.io/blog/master/images/wunderkammer.pdf)
 
 ## Food Science
 
