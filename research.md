@@ -22,11 +22,14 @@ Funded by the Churchill Scholarship
 ## Understanding the neurotoxic effects of aluminum ions on cell membranes
 Funded by the Goldwater Scholarship & Beckman Scholarship
 
-Wayment-Steele, H. K., Jing, Y., Swann, M. J., Johnson, L. E., Agnarsson, B., Svedhem, S., & Kunze, A. (2016). Effects of Al3+ on Phosphocholine and Phosphoglycerol Containing Solid Supported Lipid Bilayers. [Langmuir](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.5b03999), 32(7), 1771-1781.
+**Wayment-Steele, H. K.**, Jing, Y., Swann, M. J., Johnson, L. E., Agnarsson, B., Svedhem, S., & Kunze, A. (2016). Effects of Al3+ on Phosphocholine and Phosphoglycerol Containing Solid Supported Lipid Bilayers. [Langmuir](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.5b03999), 32(7), 1771-1781.
 
-Agnarsson, B., Wayment-Steele, H. K., Höök, F., & Kunze, A. (2016). Monitoring of single and double lipid membrane formation with high spatiotemporal resolution using evanescent light scattering microscopy. [Nanoscale](http://pubs.rsc.org/-/content/articlehtml/2016/nr/c6nr06726c), 8(46), 19219-19223.
+Agnarsson, B., **Wayment-Steele, H. K.**, Höök, F., & Kunze, A. (2016). Monitoring of single and double lipid membrane formation with high spatiotemporal resolution using evanescent light scattering microscopy. [Nanoscale](http://pubs.rsc.org/-/content/articlehtml/2016/nr/c6nr06726c), 8(46), 19219-19223.
 
 ## Understanding Surface Interactions in Materials for Alternative Energy
 
+**Wayment-Steele, H. K.**, Johnson, L. E., Tian, F., Dixon, M. C., Benz, L., & Johal, M. S. (2014). Monitoring N3 dye adsorption and desorption on TiO2 surfaces: a combined QCM-D and XPS study. [ACS applied materials & interfaces](https://pubs.acs.org/doi/abs/10.1021/am500920w), 6(12), 9093-9099.
+
+Tian, F., Cerro, A. M., Mosier, A. M., **Wayment-Steele, H. K.**, Shine, R. S., Park, A., ... & Benz, L. (2014). Surface and stability characterization of a nanoporous ZIF-8 thin film. [J. Phys. Chem. C](https://pubs.acs.org/doi/abs/10.1021/jp5041053), 118(26), 14449-14456.
 
 Pomona College
