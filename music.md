@@ -4,7 +4,7 @@ title: Pianist
 permalink: /pianist/
 ---
 <p>
-<img src="https://HWaymentSteele.github.io/images/piano_w_molly.jpg" style="float:right;width:300">
+<img src="https://HWaymentSteele.github.io/images/piano_w_molly.jpg" style="float:right;width:300px">
 The study of classical music gives us the rare chance to connect to emotions that 
 span centuries of human experience.  I feel incredibly fortunate to have studied both science and music.
 
