@@ -3,8 +3,9 @@ layout: page
 title: Pianist
 permalink: /pianist/
 ---
-<p>
-<img src="https://HWaymentSteele.github.io/images/piano_w_molly.jpg" style="float:right;width:300px">
+
+<img src="https://HWaymentSteele.github.io/images/piano_w_molly.jpg">
+
 The study of classical music gives us the rare chance to connect to emotions that 
 span centuries of human experience.  I feel incredibly fortunate to have studied both science and music.
 
@@ -13,7 +14,7 @@ The repeated patterns of a protein alpha helix? Much like the structure of Bach'
 What makes a piano line sound "musical?"
 It's when performed music obeys some musical conservation of energy, harmonic potential
 energy being conserved as it turns into kinetic energy of a fast moving line.
-</p>
+
 
   
 ### Some experiences and accolades
@@ -53,4 +54,4 @@ George Crumb: A Little Suite for Christmas
 Bach: French Suite in G
 
 
-<img src="https://HWaymentSteele.github.io/images/piano_solo_2.jpg" width="400">
+<img src="https://HWaymentSteele.github.io/images/piano_solo_2.jpg">
