@@ -10,11 +10,13 @@ permalink: /research/
 
 All-atom molecular dynamics simulations can lend great insight into protein function.  As computer processing capacity increases and we are able to produce increasingly large datasets, we need analysis methods to extract the fundamental motions observed.  We drew inspiration from the Variational Auto-Encoder framework to create the Variational Dynamics Encoder (VDE), which is able to distill dynamics to a single interpretable coordinate. We then demonstrated that we can transfer an existing protein model to more rapidly simulate variations of that protein. This work holds the potential for increasing the capacity of molecular dynamics by being able to rapidly simulate perturbations to a system.
 
+*Funded by NSF GRFP*
+
 MM Sultan, **HK Wayment-Steele**, and VS Pande. Transferable Neural Networks for Enhanced Sampling of Protein Dynamics. [J. Chem. Theor. Comp.](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00025) 2018 14 (4), 1887-1894.
 
 **HK Wayment-Steele** & VS Pande (2018). Note: Variational Encoding of Protein Dynamics Benefits from Maximizing Latent Autocorrelation. [arXiv preprint](https://arxiv.org/abs/1803.06449).
 
-CX Hernández \*, **HK Wayment-Steele\***, MM Sultan\*, BE Husic, & VS Pande. (2017). Variational Encoding of Complex Dynamics. [arXiv preprint](https://arxiv.org/abs/1711.08576).
+CX Hernández\*, **HK Wayment-Steele\***, MM Sultan\*, BE Husic, & VS Pande. (2017). Variational Encoding of Complex Dynamics. [arXiv preprint](https://arxiv.org/abs/1711.08576). \*Equal contributions
 
 ## Studying Self-Assembly in DNA origami
 
@@ -38,6 +40,8 @@ Agnarsson, B., **Wayment-Steele, H. K.**, Höök, F., & Kunze, A. (2016). Monito
 
 ## Understanding Surface Interactions in Materials for Alternative Energy
 
+
+
 **Wayment-Steele, H. K.**, Johnson, L. E., Tian, F., Dixon, M. C., Benz, L., & Johal, M. S. (2014). Monitoring N3 dye adsorption and desorption on TiO2 surfaces: a combined QCM-D and XPS study. [ACS applied materials & interfaces](https://pubs.acs.org/doi/abs/10.1021/am500920w), 6(12), 9093-9099.
 
-Tian, F., Cerro, A. M., Mosier, A. M., **Wayment-Steele, H. K.**, Shine, R. S., Park, A., ... & Benz, L. (2014). Surface and stability characterization of a nanoporous ZIF-8 thin film. [J. Phys. Chem. C](https://pubs.acs.org/doi/abs/10.1021/jp5041053), 118(26), 14449-14456.
+Tian, F., Cerro, A. M., Mosier, A. M., **Wayment-Steele, H. K.**, ... & Benz, L. (2014). Surface and stability characterization of a nanoporous ZIF-8 thin film. [J. Phys. Chem. C](https://pubs.acs.org/doi/abs/10.1021/jp5041053), 118(26), 14449-14456.
