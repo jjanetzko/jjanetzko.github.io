@@ -22,7 +22,7 @@ CX Hernández\*, **HK Wayment-Steele\***, MM Sultan\*, BE Husic, & VS Pande. (20
 
 ## Studying Self-Assembly in DNA origami
 <p>
-<img src="https://hwaymentsteele.github.io/images/research_bbs.png" style="float:right;width:300px;">
+<img src="https://hwaymentsteele.github.io/images/research_bbs.png" style="float:right;width:200px;">
 DNA origami nanomaterials hold great promise in fields ranging from drug discovery to nanoelectronics for their durability and tunability, yet their yield can be low due to off-pathway assembly.  An understanding of the thermodynamics of the assembly process would allow us to improve the yield and design more complex structures.  In this work, I studied one  design principle for a "DNA brick" system, using larger "boundary bricks" at the edges of structures, and proposed a mechanism of how this design leads to more robust assembly using Monte Carlo simulation.
 </p>
 
