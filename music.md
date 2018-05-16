@@ -13,10 +13,6 @@ What makes a piano line sound "musical?"
 It's when performed music obeys some musical conservation of energy, harmonic potential
 energy being conserved as it turns into kinetic energy of a fast moving line.
 
-<p>
-<img src="https://HWaymentSteele.github.io/images/piano_solo_2.jpg" width="500"/>
-<img src="https://HWaymentSteele.github.io/images/piano_w_molly.jpg" width="500"/>
-<\p>
   
 ### Some experiences and accolades
 
@@ -55,3 +51,7 @@ George Crumb: A Little Suite for Christmas
 Bach: French Suite in G
 
 
+<p>
+<img src="https://HWaymentSteele.github.io/images/piano_solo_2.jpg" width="400"/>
+<img src="https://HWaymentSteele.github.io/images/piano_w_molly.jpg" width="400"/>
+</p>
