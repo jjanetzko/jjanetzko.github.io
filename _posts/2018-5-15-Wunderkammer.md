@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The *Wunderkammer*: the Dawn of Curiosity in Europe
+title: The Wunderkammer: the Dawn of Curiosity in Europe
 ---
 
 
