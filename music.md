@@ -52,6 +52,6 @@ Bach: French Suite in G
 
 
 <p>
-<img src="https://HWaymentSteele.github.io/images/piano_solo_2.jpg" width="400"/>
-<img src="https://HWaymentSteele.github.io/images/piano_w_molly.jpg" width="400"/>
+<img src="https://HWaymentSteele.github.io/images/piano_solo_2.jpg" width="400">
+<img src="https://HWaymentSteele.github.io/images/piano_w_molly.jpg" width="400">
 </p>
