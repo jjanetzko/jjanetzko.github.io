@@ -49,7 +49,7 @@ George Crumb: A Little Suite for Christmas
 
 Bach: French Suite in G
 
-![Performing at Churchill college](https://github.com/hwaymentsteele/hwaymentsteele.github.io/images/piano_solo_2.jpg)
+![Performing at Churchill college](https://github.com/hwaymentsteele/hwaymentsteele.github.io/blob/master/images/piano_solo_2.jpg)
 
-![Recital with Molly Cole](https://github.com/hwaymentsteele/hwaymentsteele.github.io/images/piano_w_molly.jpg)
+![Recital with Molly Cole](https://github.com/hwaymentsteele/hwaymentsteele.github.io/blob/master/images/piano_w_molly.jpg)
 
