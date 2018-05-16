@@ -4,11 +4,11 @@ title: Research Interests
 permalink: /research/
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=MHNfkuUAAAAJ&hl=en&oi=ao)
+[Google Scholar Profile](https://scholar.google.com/citations?user=MHNfkuUAAAAJ&hl=en&oi=ao)
 
 ## Developing deep learning methods to create more interpretable models of protein dynamics
 <p>
-<img src="https://hwaymentsteele.github.io/images/research_vde.png" style="float:right;width:200px;">
+<img src="https://hwaymentsteele.github.io/images/research_vde.png" style="float:right;width:300px;">
 All-atom molecular dynamics simulations can lend great insight into protein function.  As computer processing capacity increases and we are able to produce increasingly large datasets, we need analysis methods to extract the fundamental motions observed.  We drew inspiration from the Variational Auto-Encoder framework to create the Variational Dynamics Encoder (VDE), which is able to distill dynamics to a single interpretable coordinate. We then demonstrated that we can transfer an existing protein model to more rapidly simulate variations of that protein. This work holds the potential for increasing the capacity of molecular dynamics by being able to rapidly simulate perturbations to a system.
 </p>
 
@@ -22,7 +22,7 @@ CX Hernández\*, **HK Wayment-Steele\***, MM Sultan\*, BE Husic, & VS Pande. (20
 
 ## Studying Self-Assembly in DNA origami
 <p>
-<img src="https://hwaymentsteele.github.io/images/research_bbs.png" style="float:right;width:200px;">
+<img src="https://hwaymentsteele.github.io/images/research_bbs.png" style="float:right;width:300px;">
 DNA origami nanomaterials hold great promise in fields ranging from drug discovery to nanoelectronics for their durability and tunability, yet their yield can be low due to off-pathway assembly.  An understanding of the thermodynamics of the assembly process would allow us to improve the yield and design more complex structures.  In this work, I studied one  design principle for a "DNA brick" system, using larger "boundary bricks" at the edges of structures, and proposed a mechanism of how this design leads to more robust assembly using Monte Carlo simulation.
 </p>
 
