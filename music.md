@@ -14,8 +14,8 @@ It's when performed music obeys some musical conservation of energy, harmonic po
 energy being conserved as it turns into kinetic energy of a fast moving line.
 
 <p>
-<img src="https://HWaymentSteele.github.io/images/piano_solo_2.jpg" width="200">
-<img src="https://HWaymentSteele.github.io/images/piano_w_molly.jpg" width="200">
+<img src="https://HWaymentSteele.github.io/images/piano_solo_2.jpg" width="500"/>
+<img src="https://HWaymentSteele.github.io/images/piano_w_molly.jpg" width="500"/>
 <\p>
   
 ### Some experiences and accolades
