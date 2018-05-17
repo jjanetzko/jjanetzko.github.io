@@ -26,7 +26,7 @@ CX Hernández\*, **HK Wayment-Steele\***, MM Sultan\*, BE Husic, & VS Pande. (20
 DNA origami nanomaterials hold great promise in fields ranging from drug discovery to nanoelectronics for their durability and tunability, yet their yield can be low due to off-pathway assembly.  An understanding of the thermodynamics of the assembly process would allow us to improve the yield and design more complex structures.  In this work, I studied one  design principle for a "DNA brick" system, using larger "boundary bricks" at the edges of structures, and proposed a mechanism of how this design leads to more robust assembly using Monte Carlo simulation.
 </p>
 
-*Funded by the Churchill Scholarship from the Winston Churchill Foundation of the USA.*
+*Funded by the Churchill Scholarship from the Winston Churchill Foundation of the US.*
 
 **HK Wayment-Steele**, D Frenkel, A Reinhardt. Investigating the role of boundary bricks in DNA brick self-assembly.  [Soft Matter](http://pubs.rsc.org/-/content/articlehtml/2017/sm/c6sm02719a) 2017 13 (8), 1670-1680.
 
