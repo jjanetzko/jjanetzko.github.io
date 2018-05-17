@@ -14,19 +14,19 @@ All-atom molecular dynamics simulations can lend great insight into protein func
 
 *Funded by NSF GRFP*
 
-MM Sultan, **HK Wayment-Steele**, and VS Pande. Transferable Neural Networks for Enhanced Sampling of Protein Dynamics. [J. Chem. Theor. Comp.](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00025) 2018 14 (4), 1887-1894.
-
 **HK Wayment-Steele** & VS Pande (2018). Note: Variational Encoding of Protein Dynamics Benefits from Maximizing Latent Autocorrelation. [arXiv preprint](https://arxiv.org/abs/1803.06449).
+
+MM Sultan, **HK Wayment-Steele**, and VS Pande. Transferable Neural Networks for Enhanced Sampling of Protein Dynamics. [J. Chem. Theor. Comp.](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00025) 2018 14 (4), 1887-1894.
 
 CX Hernández\*, **HK Wayment-Steele\***, MM Sultan\*, BE Husic, & VS Pande. (2017). Variational Encoding of Complex Dynamics. [arXiv preprint](https://arxiv.org/abs/1711.08576). \*Equal contributions
 
-## Studying Self-Assembly in DNA origami
+## Studying self-assembly in DNA origami
 <p>
 <img src="https://hwaymentsteele.github.io/images/research_bbs.png" style="float:right;width:200px;">
 DNA origami nanomaterials hold great promise in fields ranging from drug discovery to nanoelectronics for their durability and tunability, yet their yield can be low due to off-pathway assembly.  An understanding of the thermodynamics of the assembly process would allow us to improve the yield and design more complex structures.  In this work, I studied one  design principle for a "DNA brick" system, using larger "boundary bricks" at the edges of structures, and proposed a mechanism of how this design leads to more robust assembly using Monte Carlo simulation.
 </p>
 
-*Funded by the Churchill Scholarship.*
+*Funded by the Churchill Scholarship from the Winston Churchill Foundation of the USA.*
 
 **HK Wayment-Steele**, D Frenkel, A Reinhardt. Investigating the role of boundary bricks in DNA brick self-assembly.  [Soft Matter](http://pubs.rsc.org/-/content/articlehtml/2017/sm/c6sm02719a) 2017 13 (8), 1670-1680.
 
@@ -44,7 +44,7 @@ Dissolved aluminum (Al3+) is abundant in our surroundings yet is known to be neu
 
 Agnarsson, B., **Wayment-Steele, H. K.**, Höök, F., & Kunze, A. (2016). Monitoring of single and double lipid membrane formation with high spatiotemporal resolution using evanescent light scattering microscopy. [Nanoscale](http://pubs.rsc.org/-/content/articlehtml/2016/nr/c6nr06726c), 8(46), 19219-19223.
 
-## Understanding Surface Interactions in Materials for Alternative Energy
+## Characterizing surface interactions in materials for alternative energy
 
 **Wayment-Steele, H. K.**, Johnson, L. E., Tian, F., Dixon, M. C., Benz, L., & Johal, M. S. (2014). Monitoring N3 dye adsorption and desorption on TiO2 surfaces: a combined QCM-D and XPS study. [ACS applied materials & interfaces](https://pubs.acs.org/doi/abs/10.1021/am500920w), 6(12), 9093-9099.
 
