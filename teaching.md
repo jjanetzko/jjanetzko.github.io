@@ -24,10 +24,10 @@ Physical Chemistry: Thermodynamics, Spring 2015
 Physical Chemistry for Molecular Biology, Spring 2015
 Physical Chemistry: Quantum Mechanics, Fall 2014
 
-Math department:  
+Mathematics department:  
 
 Differential Equations, Spring 2014
 Linear Algebra Grader, Fall 2012
 
 #### Solar Energy from Blackberries
-With Dr. Mal Johal and Conner Kummerlowe, we [filmed a video](https://www.youtube.com/watch?v=8hertoGXWtE) instructing how to build a solar cell using a molecule in blackberry juice! We partnered with a low-income secondary school to help create a simple and engaging experiment, and we have since gotten feedback on the video from all over the world!
+Dr. Mal Johal, Conner Kummerlowe, and I [created a video](https://www.youtube.com/watch?v=8hertoGXWtE) demonstrating how to build a solar cell using a molecule in blackberry juice! We partnered with a low-income secondary school to help create a simple and engaging experiment, and we have since gotten feedback on the video from all over the world!
