@@ -5,6 +5,11 @@ permalink: /research/
 ---
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=MHNfkuUAAAAJ&hl=en&oi=ao)
+## Evaluating riboswitch optimality
+
+*Funded by NSF GRFP*
+
+**HK Wayment-Steele**, M Wu, M Gotrik, & R Das. (2019). Evaluating riboswitch optimality. [Methods in Enzymology](https://doi.org/10.1016/bs.mie.2019.05.028), 623, 417-450.
 
 ## Developing deep learning methods to create more interpretable models of protein dynamics
 <p>
@@ -14,11 +19,11 @@ All-atom molecular dynamics simulations can lend great insight into protein func
 
 *Funded by NSF GRFP*
 
-**HK Wayment-Steele** & VS Pande (2018). Note: Variational Encoding of Protein Dynamics Benefits from Maximizing Latent Autocorrelation. [arXiv preprint](https://arxiv.org/abs/1803.06449).
+**HK Wayment-Steele** & VS Pande (2018). Note: Variational Encoding of Protein Dynamics Benefits from Maximizing Latent Autocorrelation. [J. Chem. Phys.](https://aip.scitation.org/doi/full/10.1063/1.5043303) 149, 216101.
 
-MM Sultan, **HK Wayment-Steele**, and VS Pande. Transferable Neural Networks for Enhanced Sampling of Protein Dynamics. [J. Chem. Theor. Comp.](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00025) 2018 14 (4), 1887-1894.
+MM Sultan, **HK Wayment-Steele**, & VS Pande. Transferable Neural Networks for Enhanced Sampling of Protein Dynamics. [J. Chem. Theor. Comp.](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00025) 2018 14 (4), 1887-1894.
 
-CX Hernández\*, **HK Wayment-Steele\***, MM Sultan\*, BE Husic, & VS Pande. (2017). Variational Encoding of Complex Dynamics. [arXiv preprint](https://arxiv.org/abs/1711.08576). \*Equal contributions
+CX Hernández\*, **HK Wayment-Steele\***, MM Sultan\*, BE Husic, & VS Pande. (2017). Variational Encoding of Complex Dynamics. [Phys. Rev. E.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.062412) 97, 062412. \*Equal contributions
 
 ## Studying self-assembly in DNA origami
 <p>
