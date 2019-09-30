@@ -7,6 +7,8 @@ permalink: /research/
 [Google Scholar Profile](https://scholar.google.com/citations?user=MHNfkuUAAAAJ&hl=en&oi=ao)
 ## Evaluating riboswitch optimality
 
+\[description coming soon\]
+
 *Funded by NSF GRFP*
 
 **HK Wayment-Steele**, M Wu, M Gotrik, & R Das. (2019). Evaluating riboswitch optimality. [Methods in Enzymology](https://doi.org/10.1016/bs.mie.2019.05.028), 623, 417-450.
