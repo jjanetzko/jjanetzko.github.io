@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Experience
+title: Research Interests
 permalink: /research/
 ---
 
@@ -17,11 +17,11 @@ I developed a principled biophysical approach that relates the hydrolysis rate o
 
 Leppek, K.\*, Byeon, G. W.\*, Kladwang, W.\*, **Wayment-Steele, H. K.\***, Kerr, C. H.\*, Xu, A. F., . . . Dormitzer, P., Solorzano, A., Barna, M., Das, R. (2021). Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics. Nature Communications (In Press).
 
-**Wayment-Steele, H. K.**, Kladwang, W.\*, Watkins, A. M.\*, Kim, D. S.\*, Tunguz, B.\*, Reade, W., ... & Das, R. (2021). Predictive models of RNA degradation through dual crowdsourcing. arXiv.
+**Wayment-Steele, H. K.\***, Kladwang, W.\*, Watkins, A. M.\*, Kim, D. S.\*, Tunguz, B.\*, Reade, W., ... & Das, R. (2021). Predictive models of RNA degradation through dual crowdsourcing. arXiv.
 
 ## Improving RNA ensemble prediction and design
 
-The computer-aided study and design of RNA molecules is increasingly prevalent across a range of disciplines, yet little was known about the accuracy of commonly used structure prediction packages in real-world tasks. For example, riboswitches are RNA elements that recognize diverse chemical and biomolecular inputs and transduce this recognition process to genetic, fluorescent, and other engineered outputs using RNA conformational changes, yet there is significant room for improvement in the maximal efficiency (Wayment-Steele, 2019, Meth. In Enzym.). I developed the first high-throughput, independent evaluation of all commonly-used structure prediction algorithms using two separate thermodynamic prediction tasks: 1) predicting unpaired probabilities of individual nucleotides through chemical mapping data, and 2) predicting riboswitch activity using large-scale riboswitch datasets presented in (Andreasson, 2022, PNAS). I further developed a multitask-learning-based model trained from these data, EternaFold, which demonstrated improved performance that generalized to diverse external datasets, including complete viral genomes probed in vivo and synthetic designs modeling mRNA vaccines (Wayment-Steele, 2022, Nature Methods).
+The computer-aided study and design of RNA molecules is increasingly important across a range of disciplines, yet little was known about the accuracy of commonly used structure prediction packages in real-world tasks. For example, riboswitches are RNA elements that recognize diverse chemical and biomolecular inputs and transduce this recognition process to genetic, fluorescent, and other engineered outputs using RNA conformational changes, yet there is significant room for improvement in the maximal efficiency (Wayment-Steele, 2019, Meth. In Enzym.). I developed the first high-throughput, independent evaluation of all commonly-used structure prediction algorithms using two separate thermodynamic prediction tasks: 1) predicting unpaired probabilities of individual nucleotides through chemical mapping data, and 2) predicting riboswitch activity using large-scale riboswitch datasets presented in (Andreasson, 2022, PNAS). I further developed a multitask-learning-based model trained from these data, EternaFold, which demonstrated improved performance that generalized to diverse external datasets, including complete viral genomes probed in vivo and synthetic designs modeling mRNA vaccines (Wayment-Steele, 2022, Nature Methods).
 
 **Wayment-Steele, H.K.**, Kladwang, W., Strom, A.I., Lee, J., Treuille, A., Eterna Participants, Das, R. (2022) RNA secondary structure packages evaluated and improved by high-throughput experiments. Nature Methods (In Press).
 
