@@ -5,21 +5,37 @@ permalink: /research/
 ---
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=MHNfkuUAAAAJ&hl=en&oi=ao)
-## Evaluating riboswitch optimality
 
-\[description coming soon\]
+\* below = equal contributions.
 
-*Funded by NSF GRFP*
+## Designing stabilized mRNA therapeutics
 
-**HK Wayment-Steele**, M Wu, M Gotrik, & R Das. (2019). Evaluating riboswitch optimality. [Methods in Enzymology](https://doi.org/10.1016/bs.mie.2019.05.028), 623, 417-450.
+One of the greatest global health challenges that faces biomedical engineering is the development of refrigerator-stable vaccines to enable more equitable distribution. Vaccines based on messenger RNA (mRNA) have immense promise, yet persistent concerns regarding their thermostability. A largely unexplored strategy to reduce mRNA hydrolysis is to design mRNAs that form double-stranded regions, which are protected from in-line cleavage and enzymatic degradation, while coding for the same proteins. The amount of stabilization that this strategy can deliver and the most effective algorithmic approach to achieve stabilization were poorly understood.
+I developed a principled biophysical approach that relates the hydrolysis rate of an mRNA molecule to readily computed base-pair probabilities, and demonstrated that many mRNA targets we tested were predicted to gain at least 2-fold increase in half-life through computational sequence design, while maintaining wide diversity in morphologies (Wayment-Steele, NAR, 2021). Our team launched a crowdsourced challenge to solicit diverse RNA sequence and structure designs and probed their degradation at nucleotide-level with a
+   
+new experimental technique, In-line-seq, to gain a more comprehensive understanding of sequence- and structure-based effects on degradation. I distilled these features in a machine learning model and used this to guide a stochastic mRNA design algorithm. This resulted in sequences that, when synthesized and experimentally characterized, had a 2.5-fold increase in half-life over conventional methods, and, to our surprise, increased protein expression over conventional designs (Leppek, Nat Comms, 2021). We further used these data to launch a crowdsourced machine-learning challenge on the platform Kaggle, in which over 1600 teams collaborated to develop highly accurate models for predicting RNA degradation (Wayment-Steele, arXiv, 2021). We anticipate this work will be formative for guiding future therapeutic and vaccine development in potency and stability.
 
-## Developing deep learning methods to create more interpretable models of protein dynamics
-<p>
-<img src="https://hwaymentsteele.github.io/images/research_vde.png" style="float:right;width:500px;">
-All-atom molecular dynamics simulations can lend great insight into protein function.  As computer processing capacity increases and we are able to produce increasingly large datasets, we need analysis methods to extract the fundamental motions observed.  We drew inspiration from the Variational Auto-Encoder framework to create the Variational Dynamics Encoder (VDE), which is able to distill dynamics to a single interpretable coordinate. We then demonstrated that we can transfer an existing protein model to more rapidly simulate variations of that protein. This work holds the potential for increasing the capacity of molecular dynamics by being able to rapidly simulate perturbations to a system.
-</p>
+**Wayment-Steele, H. K.**, Kim, D. S., Choe, C. A., Nicol, J. J., Wellington-Oguri, R., Watkins, A. M., . . . Das, R. (2021). Theoretical basis for stabilizing messenger RNA through secondary structure design. Nucleic Acids Res, 49(18), 10604-10617.
 
-*Funded by NSF GRFP*
+Leppek, K.\*, Byeon, G. W.\*, Kladwang, W.\*, **Wayment-Steele, H. K.\***, Kerr, C. H.\*, Xu, A. F., . . . Dormitzer, P., Solorzano, A., Barna, M., Das, R. (2021). Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics. Nature Communications (In Press).
+
+**Wayment-Steele, H. K.**, Kladwang, W.\*, Watkins, A. M.\*, Kim, D. S.\*, Tunguz, B.\*, Reade, W., ... & Das, R. (2021). Predictive models of RNA degradation through dual crowdsourcing. arXiv.
+
+## Advancing quantitative RNA structure prediction and design
+
+The computer-aided study and design of RNA molecules is increasingly prevalent across a range of disciplines, yet little was known about the accuracy of commonly used structure prediction packages in real-world tasks. For example, riboswitches are RNA elements that recognize diverse chemical and biomolecular inputs and transduce this recognition process to genetic, fluorescent, and other engineered outputs using RNA conformational changes, yet there is significant room for improvement in the maximal efficiency (Wayment-Steele, 2019, Meth. In Enzym.). I developed the first high-throughput, independent evaluation of all commonly-used structure prediction algorithms using two separate thermodynamic prediction tasks: 1) predicting unpaired probabilities of individual nucleotides through chemical mapping data, and 2) predicting riboswitch activity using large-scale riboswitch datasets presented in (Andreasson, 2022, PNAS). I further developed a multitask-learning-based model trained from these data, EternaFold, which demonstrated improved performance that generalized to diverse external datasets, including complete viral genomes probed in vivo and synthetic designs modeling mRNA vaccines (Wayment-Steele, 2022, Nature Methods).
+
+**Wayment-Steele, H.K.**, Kladwang, W., Strom, A.I., Lee, J., Treuille, A., Eterna Participants, Das, R. (2022) RNA secondary structure packages evaluated and improved by high-throughput experiments. Nature Methods (In Press).
+
+**Wayment-Steele, H.**, Wu, M., Gotrik, M., & Das, R. (2019). Evaluating riboswitch optimality. Methods Enzymol, 623, 417-450. doi:10.1016/bs.mie.2019.05.028
+
+Andreasson, J. O., Gotrik, M. R., Wu, M. J., **Wayment-Steele, H. K.**, Kladwang, W., Portela, F., ... & Greenleaf, W. J. (2022). Crowdsourced RNA design discovers diverse, reversible, efficient, self-contained molecular sensors. Proc. Natl. Acad. Sci. (In Press).
+
+## Unsupervised deep learning for improved protein folding kinetic models and protein-protein interactions
+
+Molecular dynamics (MD) simulations offer the potential to understand atomistic details of protein dynamics. As MD simulations are able to sample increasing length- and time-scales, new theoretical and statistical methods are needed to parse the resulting data to extract meaningful states and kinetic rate constants. We leveraged a classic framework from unsupervised learning, the variational autoencoder, to develop an improved approach for extracting long-timescale processes from MD data (Hernandez, PRE, 2018) and demonstrated our approach to incorporate the autocorrelation of processes in the learning function was needed for this approach (Wayment-Steele, J. Chem Phys, 2018). We further used this approach to achieve convergence for related mutants faster by performing metadynamics on the learned latent coordinate (Sultan, JCTC, 2018). I applied these approaches to model protein-protein interaction dissociation timescales and geometries of a junctured-DNA tweezers as a generic platform to enable real-time observation, at the single- molecule level, of biomolecular interactions (Kostrz, Nat. Biotech., 2019), and also developed related approaches to coarse-grain simulations of intrinsically disordered proteins by secondary structure (Wayment- Steele, bioRxiv, 2018).
+
+Kostrz, D., **Wayment-Steele, H. K.**, Wang, J. L., Follenfant, M., Pande, V. S., Strick, T. R., & Gosse, C. (2019). A modular DNA scaffold to study protein-protein interactions at single-molecule resolution. Nat Nanotechnol, 14(10), 988-993.
 
 **HK Wayment-Steele** & VS Pande (2018). Note: Variational Encoding of Protein Dynamics Benefits from Maximizing Latent Autocorrelation. [J. Chem. Phys.](https://aip.scitation.org/doi/full/10.1063/1.5043303) 149, 216101.
 
