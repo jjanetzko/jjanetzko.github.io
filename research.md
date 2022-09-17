@@ -8,12 +8,12 @@ permalink: /research/
 
 \* below = equal contributions.
 
-I've worked on a diverse and perhaps unconventional set of topics, but underlying all of them has been a driving wish to make sense of biomolecular ensembles using large bioinformatics datasets, and to test model predictions with actual experiments.
+I've worked on a diverse set of topics, but underlying all my interests is a driving wish to make sense of biomolecular structure ensembles using principled modelling approaches and large bioinformatics datasets, and to test model predictions with actual experiments.
 
 ## Designing stabilized mRNA therapeutics
 
 <p>
-<img src="https://hwaymentsteele.github.io/images/PERSIST_inline_twitter.png" style="float:right;width:200px;">
+<img src="https://hwaymentsteele.github.io/images/PERSIST_inline_twitter.png" style="float:right;width:400px;">
 One of the greatest global health challenges that faces biomedical engineering is the development of refrigerator-stable vaccines to enable more equitable distribution. Vaccines based on messenger RNA (mRNA) have immense promise, yet persistent concerns regarding their thermostability. A largely unexplored strategy to reduce mRNA hydrolysis is to design mRNAs that form double-stranded regions, which are protected from in-line cleavage and enzymatic degradation, while coding for the same proteins. The amount of stabilization that this strategy can deliver and the most effective algorithmic approach to achieve stabilization were poorly understood. My computational work, in collaboration with a team from the Barna lab at Stanford and the Eterna RNA design project, led to mRNA designs that when synthesized and experimentally characterized, had a 2.5-fold increase in half-life over conventional methods, and, to our surprise, increased protein expression over conventional designs. We used these data to launch a crowdsourced machine-learning challenge on the platform Kaggle, in which over 1600 teams collaborated to develop highly accurate models for predicting RNA degradation (Wayment-Steele, 2021, arXiv). We anticipate this work will be formative for guiding future therapeutic and vaccine development in potency and stability.
 </p>
 
@@ -30,9 +30,11 @@ Leppek, K.\*, Byeon, G. W.\*, Kladwang, W.\*, **Wayment-Steele, H. K.\***, Kerr,
 ## Improving RNA ensemble prediction and design
 
 <p>
-<img src="https://hwaymentsteele.github.io/images/eternafold_hero_image.png" style="float:right;width:400px;">
+<img src="https://hwaymentsteele.github.io/images/eternafold_hero_image.png" style="float:right;width:300px;">
 The computer-aided study and design of RNA molecules is increasingly important across a range of disciplines, yet little was known about the accuracy of commonly used structure prediction packages in real-world tasks. For example, riboswitches are RNA elements that recognize diverse chemical and biomolecular inputs and transduce this recognition process to genetic, fluorescent, and other engineered outputs using RNA conformational changes. I developed the first high-throughput, independent evaluation of all commonly-used structure prediction algorithms using two separate thermodynamic prediction tasks: 1) predicting unpaired probabilities of individual nucleotides through chemical mapping data, and 2) predicting riboswitch activity. I further developed a multitask-learning-based model trained from these data, EternaFold, which demonstrated improved performance that generalized to diverse external datasets, including complete viral genomes probed in vivo and synthetic designs modeling mRNA vaccines.
 </p>
+
+Give EternaFold a [spin](https://eternafold.eternagame.org/)!
 
 **Wayment-Steele, H.K.**, Kladwang, W., Strom, A.I., Lee, J., Treuille, A., Eterna Participants, Das, R. (2022) RNA secondary structure packages evaluated and improved by high-throughput experiments. Nature Methods (In Press).
 
