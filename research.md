@@ -28,7 +28,7 @@ As a graduate student I studied the essential human enzyme O-GlcNAc transferase 
   
 Lazarus, M. B.\*, Jiang, J.\*, Kapuria, V., Bhuiyan, T., **Janetzko, J.**, Zandberg, W. F., Vocadlo, D. J., Winship, H.\#, Walker, S.\# (2013). HCF-1 is cleaved in the active site of O-GlcNAc transferase. Science, 342, 1235-1239.
 
-Ortiz-Meoz, R. F., Jiang, J., Lazarus, M. B., Orman, M., **Janetzko, J.**, Fan, C., Duveau, D. Y., Tan, Z.-W., Thomas, C. J., Walker, S.\# (2014). A Small Molecule That Inhibits OGT Activity in Cells. ACS Chem. Biol., 10(6), 1392-1397.
+Ortiz-Meoz, R. F., Jiang, J., Lazarus, M. B., Orman, M., **Janetzko, J.**, Fan, C., Duveau, D. Y., Tan, Z.-W., Thomas, C. J., Walker, S.\# (2015). A Small Molecule That Inhibits OGT Activity in Cells. ACS Chem. Biol., 10(6), 1392-1397.
 
 **Janetzko, J.**, Trauger, S. A., Lazarus, M. B., Walker, S.\# (2016). How the glycosyltransferase
 OGT catalyzes amide bond cleavage. Nat. Chem. Biol., 12(11), 892-893.
