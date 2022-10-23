@@ -35,4 +35,4 @@ OGT catalyzes amide bond cleavage. Nat. Chem. Biol., 12(11), 892-893.
 
 **Janetzko, J.**, Walker, S.\# (2017). Aspartate Glycosylation Triggers Isomerization to Isoaspartate. J. Am. Chem. Soc., 139(9), 3332-3335.
 
-Martin, S. E. S., Tan, Z.-W., Itkonen, H. M., Duveau, D. Y., Paulo, J. A., **Janetzko, J.**, Boutz, P. L., Tork, L., Moss, F. A., Thomas, C. J., Gygi, S. P., Lazarus, M. B., Walker, S.\# (2017). Structure-Based Evolution of Low Nanomolar-O-GlcNAc Transferase Inhibitors. J. Am. Chem. Soc., 140(42), 13542-13545.
+Martin, S. E. S., Tan, Z.-W., Itkonen, H. M., Duveau, D. Y., Paulo, J. A., **Janetzko, J.**, Boutz, P. L., Tork, L., Moss, F. A., Thomas, C. J., Gygi, S. P., Lazarus, M. B., Walker, S.\# (2018). Structure-Based Evolution of Low Nanomolar-O-GlcNAc Transferase Inhibitors. J. Am. Chem. Soc., 140(42), 13542-13545.
