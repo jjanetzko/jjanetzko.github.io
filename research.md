@@ -7,9 +7,9 @@ permalink: /research/
 [Google Scholar Profile]([https://scholar.google.com/citations?user=MHNfkuUAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=a9nNtM8AAAAJ&hl=en))
 
 \* below = equal contributions.
-\2021 below = corresponding author.
+\ddag below = corresponding author.
 
-## How a GPCR is engaged by a \u03B2-arrestin
+## How a GPCR is engaged by a \beta-arrestin
 
 <p>
 <img src="https://jjanetzko.github.io/images/overall_EM_figure-01.png" style="float:right;width:400px;">
