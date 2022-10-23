@@ -4,85 +4,20 @@ title: Research Interests
 permalink: /research/
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=MHNfkuUAAAAJ&hl=en&oi=ao)
+[Google Scholar Profile]([https://scholar.google.com/citations?user=MHNfkuUAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=a9nNtM8AAAAJ&hl=en))
 
 \* below = equal contributions.
+\2021 below = corresponding author.
 
-I've worked on a diverse set of topics, but underlying all my interests is a driving wish to make sense of biomolecular structure ensembles using principled modelling approaches and large bioinformatics datasets, and to test model predictions with actual experiments.
-
-## Designing stabilized mRNA therapeutics
-
-<p>
-<img src="https://hwaymentsteele.github.io/images/PERSIST_inline_twitter.png" style="float:right;width:400px;">
-One of the greatest global health challenges that faces biomedical engineering is the development of refrigerator-stable vaccines to enable more equitable distribution. Vaccines based on messenger RNA (mRNA) have immense promise, yet persistent concerns regarding their thermostability. A largely unexplored strategy to reduce mRNA hydrolysis is to design mRNAs that form double-stranded regions, which are protected from in-line cleavage and enzymatic degradation, while coding for the same proteins. The amount of stabilization that this strategy can deliver and the most effective algorithmic approach to achieve stabilization were poorly understood. My computational work, in collaboration with a team from the Barna lab at Stanford and the Eterna RNA design project, led to mRNA designs that when synthesized and experimentally characterized, had a 2.5-fold increase in half-life over conventional methods, and, to our surprise, increased protein expression over conventional designs. We used these data to launch a crowdsourced machine-learning challenge on the platform Kaggle, in which over 1600 teams collaborated to develop highly accurate models for predicting RNA degradation (Wayment-Steele, 2021, arXiv). We anticipate this work will be formative for guiding future therapeutic and vaccine development in potency and stability.
-</p>
-
-We had a blast talking with 50 Years about this work on their [podcast](https://fiftyyears.com/translation-podcast/2021/10/14/screening-for-enhanced-rna-vaccines-with-kathrin-leppek-gun-byeon-hannah-wayment-steele).
-  
-I was also delighted to share this work with Washington High in Fremont, CA at their [TedX conference](https://www.ted.com/talks/hannah_wayment_steele_designing_more_shelf_stable_rna_vaccines_through_community_science).
-
-**Wayment-Steele, H. K.**, Kim, D. S., Choe, C. A., Nicol, J. J., Wellington-Oguri, R., Watkins, A. M., . . . Das, R. (2021). Theoretical basis for stabilizing messenger RNA through secondary structure design. Nucleic Acids Res, 49(18), 10604-10617.
-
-Leppek, K.\*, Byeon, G. W.\*, Kladwang, W.\*, **Wayment-Steele, H. K.\***, Kerr, C. H.\*, Xu, A. F., . . . Dormitzer, P., Solorzano, A., Barna, M., Das, R. (2021). Combinatorial optimization of mRNA structure, stability, and translation for RNA-based therapeutics. Nature Communications (In Press).
-
-**Wayment-Steele, H. K.\***, Kladwang, W.\*, Watkins, A. M.\*, Kim, D. S.\*, Tunguz, B.\*, Reade, W., ... & Das, R. (2021). Predictive models of RNA degradation through dual crowdsourcing. arXiv.
-
-## Improving RNA ensemble prediction and design
+## How a GPCR is engaged by a \u03B2-arrestin
 
 <p>
-<img src="https://hwaymentsteele.github.io/images/eternafold_hero_image.png" style="float:right;width:300px;">
-The computer-aided study and design of RNA molecules is increasingly important across a range of disciplines, yet little was known about the accuracy of commonly used structure prediction packages in real-world tasks. For example, riboswitches are RNA elements that recognize diverse chemical and biomolecular inputs and transduce this recognition process to genetic, fluorescent, and other engineered outputs using RNA conformational changes. I developed the first high-throughput, independent evaluation of all commonly-used structure prediction algorithms using two separate thermodynamic prediction tasks: 1) predicting unpaired probabilities of individual nucleotides through chemical mapping data, and 2) predicting riboswitch activity. I further developed a multitask-learning-based model trained from these data, EternaFold, which demonstrated improved performance that generalized to diverse external datasets, including complete viral genomes probed in vivo and synthetic designs modeling mRNA vaccines.
+<img src="https://jjanetzko.github.io/images/overall_EM_figure-01.png" style="float:right;width:400px;">
+To achieve temporal regulation of signaling, a family of proteins known as \u03B2-arrestins are responsible for terminating G protein-mediated signaling and desensitizing receptors. \u03B2-arrestin proteins are also responsible for mediating the internalization of most GPCRs and dictating their recycling and re-sensitization behavior. The longstanding view of how GPCRs are recognized by arrestins is that recruitment is mediated by 1. protein-protein interactions (PPIs) between key loops in arrestin and the transmembrane (TM) bundle of the GPCR, and 2. post-translational modification (PTM)-mediated interactions between the N-terminal domain of arrestin and phosphorylated motifs within the GPCR (e.g., C-terminus). At the outset of my postdoctoral work a recently solved structure of rhodopsin-arrestin 1 was available8, but there were no structures of GPCR-\u03B2-arrestin complexes. While the vertebrate visual system has two GPCRs and two dedicated arrestin proteins, in all other cell-types the remaining hundreds of GPCRs are regulated by only two \u03B2arrs. This raised interesting questions about the nature of molecular recognition between \u03B2arrs and diverse GPCRs and suggested that these complexes may differ from what was seen for rhodopsin. Together with two other postdoctoral fellows in the Kobilka lab and one postdoctoral fellow in the Skiniotis lab (Stanford) we succeeded in obtaining a long-sought structure of a GPCR bound to a \u03B2-arrestin using single-particle cryo-electron microscopy (cryo-EM). We used the neurotensin type 1 receptor (NTSR1) as a model, as it forms a particularly stable interaction with \u03B2arrs. In addition to the expected PPIs between key \u03B2arr1 loops and the TM core, and protein-phosphate interactions between the NTSR1 C-terminus and the N-terminal domain of \u03B2arr1, we also found a bound signaling lipid, phosphatidylinositol (4,5)-bisphosphate (henceforth PIP2) at the interface of NTSR1 and \u03B2arr1. This was the first picture of how membrane PIPs can act to stabilize the complex and maintain the core-engaged state known to be important for GPCR desensitization. Our structure, refined to a nominal global resolution of 4.2 \212B, showed considerable conformational heterogeneity. In particular, the use of multibody refinement (prior to the availability of 3D VA) showed that within the sample the relative orientation between NTSR1 and \u03B2arr1 could vary dramatically. We reason that this flexibility may allow for recognition of diverse GPCRs, phosphorylation differences, the influence of different membrane PIPs, or interactions with other proteins present in clathrin-coated structures (CCSs), where most GPCRs traffic during CME. However, this structure, together with those that have followed it, while important for understanding how GPCRs are regulated by \u03B2arrs, cannot alone address questions surrounding how these complexes assemble, disassemble, or interact with downstream signaling effectors.
 </p>
 
-Give EternaFold a [spin](https://eternafold.eternagame.org/)!
+Here is a recording of me presenting this work at the ASBMB Lipid Research Division Seminar Series in a session titled: [Lipids in transmembrane protein structure]([https://fiftyyears.com/translation-podcast/2021/10/14/screening-for-enhanced-rna-vaccines-with-kathrin-leppek-gun-byeon-hannah-wayment-steele](https://youtu.be/hpJwu7iOS8Y?t=1804)).
 
-**Wayment-Steele, H.K.**, Kladwang, W., Strom, A.I., Lee, J., Treuille, A., Eterna Participants, Das, R. (2022) RNA secondary structure packages evaluated and improved by high-throughput experiments. Nature Methods (In Press).
+Huang, W.\*, Masureel, M.\*, Qu, Q.\*, **Janetzko, J.\***, Inoue, A., Kato, H. E., Robertson, M. J., Nguyen, K. C., Glenn, J. S., . . . Kobilka, B. K. (2020). Structure of the neurotensin receptor 1 in complex with &beta-arrestin 1. Nature, 579, 303-308.
 
-**Wayment-Steele, H.**, Wu, M., Gotrik, M., & Das, R. (2019). Evaluating riboswitch optimality. Methods Enzymol, 623, 417-450. doi:10.1016/bs.mie.2019.05.028
-
-Andreasson, J. O., Gotrik, M. R., Wu, M. J., **Wayment-Steele, H. K.**, Kladwang, W., Portela, F., ... & Greenleaf, W. J. (2022). Crowdsourced RNA design discovers diverse, reversible, efficient, self-contained molecular sensors. Proc. Natl. Acad. Sci. (In Press).
-
-## Unsupervised deep learning for improved protein folding kinetic models and protein-protein interactions
-
-<p>
-<img src="https://hwaymentsteele.github.io/images/research_vde.png" style="float:right;width:400px;">
-Molecular dynamics (MD) simulations offer the potential to understand atomistic details of protein dynamics. As MD simulations are able to sample increasing length- and time-scales, new theoretical and statistical methods are needed to parse the resulting data to extract meaningful states and kinetic rate constants. We leveraged a classic framework from unsupervised learning, the variational autoencoder, to develop an improved approach for extracting long-timescale processes from MD data. I applied these approaches to model protein-protein interaction dissociation timescales and geometries of a junctured-DNA tweezers as a generic platform to enable real-time observation, at the single- molecule level, of biomolecular interactions.
-</p>
-
-Kostrz, D., **Wayment-Steele, H. K.**, Wang, J. L., Follenfant, M., Pande, V. S., Strick, T. R., & Gosse, C. (2019). A modular DNA scaffold to study protein-protein interactions at single-molecule resolution. Nat Nanotechnol, 14(10), 988-993.
-
-**HK Wayment-Steele** & VS Pande (2018). Note: Variational Encoding of Protein Dynamics Benefits from Maximizing Latent Autocorrelation. [J. Chem. Phys.](https://aip.scitation.org/doi/full/10.1063/1.5043303) 149, 216101.
-
-MM Sultan, **HK Wayment-Steele**, & VS Pande. Transferable Neural Networks for Enhanced Sampling of Protein Dynamics. [J. Chem. Theor. Comp.](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00025) 2018 14 (4), 1887-1894.
-
-CX Hernández\*, **HK Wayment-Steele\***, MM Sultan\*, BE Husic, & VS Pande. (2017). Variational Encoding of Complex Dynamics. [Phys. Rev. E.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.062412) 97, 062412. \*Equal contributions
-
-## Studying self-assembly in DNA origami
-<p>
-<img src="https://hwaymentsteele.github.io/images/research_bbs.png" style="float:right;width:200px;">
-DNA origami nanomaterials hold promise in fields ranging from drug discovery to nanoelectronics for their durability and tunability, yet their yield can be low due to off-pathway assembly.  An understanding of the thermodynamics of the assembly process would allow us to improve the yield and design more complex structures.  In this work, I studied one design principle for a "DNA brick" system, using larger "boundary bricks" at the edges of structures, and proposed a mechanism of how this design leads to more robust assembly using Monte Carlo simulation.
-</p>
-
-*Funded by the Churchill Scholarship.*
-
-**HK Wayment-Steele**, D Frenkel, A Reinhardt. Investigating the role of boundary bricks in DNA brick self-assembly.  [Soft Matter](http://pubs.rsc.org/-/content/articlehtml/2017/sm/c6sm02719a) 2017 13 (8), 1670-1680.
-
-## Understanding the neurotoxic effects of aluminum ions on cell membranes
-<p>
-<img src="https://hwaymentsteele.github.io/images/research_Al.png" style="float:right;width:400px;">
-Dissolved aluminum (Al3+) is abundant in our surroundings yet is known to be neurotoxic in acute doses, and chronic exposure is increasingly correlated with Alzheimers-like symptoms. In this work, I demonstrated that Al3+ ions cause cell membranes to adopt a gel-like structure and reduce their diffusivity, which is highly detrimental to essential membrane functions. I contributed fluorescence microscopy, surface gravimetric measurements (QCM-D), and molecular dynamics simulations in this work.
-</p>
-
-*Funded by the Goldwater Scholarship & Beckman Scholarship.*
-
-*Completed as a visiting scholar at Chalmers University of Technology (Gothenburg, Sweden), as a guest of S. Svedhem, and as a visiting scholar at the University of G&ouml;ttingen (G&ouml;ttingen, Germany), as a guest of A. Kunze.*
-
-**Wayment-Steele, H. K.**, Jing, Y., Swann, M. J., Johnson, L. E., Agnarsson, B., Svedhem, S., & Kunze, A. (2016). Effects of Al3+ on Phosphocholine and Phosphoglycerol Containing Solid Supported Lipid Bilayers. [Langmuir](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.5b03999), 32(7), 1771-1781.
-
-Agnarsson, B., **Wayment-Steele, H. K.**, Höök, F., & Kunze, A. (2016). Monitoring of single and double lipid membrane formation with high spatiotemporal resolution using evanescent light scattering microscopy. [Nanoscale](http://pubs.rsc.org/-/content/articlehtml/2016/nr/c6nr06726c), 8(46), 19219-19223.
-
-## Characterizing surface interactions in materials for alternative energy
-
-**Wayment-Steele, H. K.**, Johnson, L. E., Tian, F., Dixon, M. C., Benz, L., & Johal, M. S. (2014). Monitoring N3 dye adsorption and desorption on TiO2 surfaces: a combined QCM-D and XPS study. [ACS applied materials & interfaces](https://pubs.acs.org/doi/abs/10.1021/am500920w), 6(12), 9093-9099.
-
-Tian, F., Cerro, A. M., Mosier, A. M., **Wayment-Steele, H. K.**, ... & Benz, L. (2014). Surface and stability characterization of a nanoporous ZIF-8 thin film. [J. Phys. Chem. C](https://pubs.acs.org/doi/abs/10.1021/jp5041053), 118(26), 14449-14456.
+## Mechanistic studies of O-GlcNAc transferase
