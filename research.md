@@ -7,7 +7,7 @@ permalink: /research/
 [Google Scholar Profile]([https://scholar.google.com/citations?user=MHNfkuUAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=a9nNtM8AAAAJ&hl=en))
 
 \* below = equal contributions.
-<sup>\2021</sup> below = corresponding author.
+\# below = corresponding author.
 
 ## How a GPCR is engaged by a beta-arrestin
 
@@ -18,6 +18,6 @@ To achieve temporal regulation of signaling, a family of proteins known as &#946
 
 Here is a recording of me presenting this work at the ASBMB Lipid Research Division Seminar Series in a session on [Lipids in transmembrane protein structure](https://www.youtube.com/watch?v=hpJwu7iOS8Y&t=2253s&ab_channel=AmericanSocietyforBiochemistryandMolecularBiology%28ASBMB%29).
 
-Huang, W.\*, Masureel, M.\*, Qu, Q.\*, **Janetzko, J.\***, Inoue, A., Kato, H. E., Robertson, M. J., Nguyen, K. C., Glenn, J. S., Skiniotis, G.&<sup>\2021</sup>, Kobilka, B. K.<sup>\2021</sup> (2020). Structure of the neurotensin receptor 1 in complex with beta-arrestin 1. Nature, 579, 303-308.
+Huang, W.\*, Masureel, M.\*, Qu, Q.\*, **Janetzko, J.\***, Inoue, A., Kato, H. E., Robertson, M. J., Nguyen, K. C., Glenn, J. S., Skiniotis, G.\#, Kobilka, B. K.\# (2020). Structure of the neurotensin receptor 1 in complex with beta-arrestin 1. Nature, 579, 303-308.
 
 ## Mechanistic studies of O-GlcNAc transferase
