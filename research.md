@@ -4,7 +4,7 @@ title: Research Interests
 permalink: /research/
 ---
 
-[Google Scholar Profile]([https://scholar.google.com/citations?user=MHNfkuUAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=a9nNtM8AAAAJ&hl=en))
+[Google Scholar Profile](https://scholar.google.com/citations?user=a9nNtM8AAAAJ&hl=en)
 
 \* below = equal contributions.
 \# below = corresponding author.
