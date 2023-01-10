@@ -17,7 +17,7 @@ To achieve temporal regulation of signaling, a family of proteins known as &#946
 
 <p>
 <div>
-    <div style="float:rigth">
+    <div style="float:right">
         <img src="https://jjanetzko.github.io/images/overall_EM_figure-01.png" style="width:400px;">
     </div>  
     <div>
