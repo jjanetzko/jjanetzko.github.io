@@ -9,6 +9,21 @@ permalink: /research/
 \* below = equal contributions.
 \# below = corresponding author.
 
+<style> 
+  body {  
+    background-color: deepskyblue;  
+  } 
+  img {  
+    width: 350px; 
+    float: left; 
+    margin-right: 10px; 
+  } 
+  div { 
+    float: left; 
+    width: calc(100% - 350px - 10px); 
+  } 
+</style> 
+
 ## How are GPCRs engaged by &#946;-arrestins?
 
 <p>
