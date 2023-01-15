@@ -6,7 +6,7 @@ permalink: /team/
 
 ## John Janetzko, Ph.D.
 
-{% include module.html image_path="https://jjanetzko.github.io/images/DSC01759 copy.jpg)" title="John Janetzko, Ph.D." description="Instructor in Molecular and Cellular Physiology, Stanford University School of Medicine." %}
+{% include module.html image_path="https://jjanetzko.github.io/images/DSC01759 copy.jpg" title="John Janetzko, Ph.D." description="Instructor in Molecular and Cellular Physiology, Stanford University School of Medicine." %}
 
 
 ## Winston Bell
